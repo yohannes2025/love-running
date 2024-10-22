@@ -19,7 +19,12 @@ body {
 }
 /* Header */
 header {
-    background-color: lightcoral;
+    background-color: #ffffff;
+    padding: 0;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: o 2px 2px #3a3a3a ;
 }
 
 h1 {
